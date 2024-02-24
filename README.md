@@ -19,6 +19,8 @@ In this case study, Danny owns a pizza store. Danny started by recruiting “run
 
 I answered the study questions using MsSql workbench. Check on the documentation beneath
 
+[Repository](https://github.com/Mexxajimmy/Danny-SqL-Challenge/tree/main/DannyChallenge/Week%202%20Challenge)
+
 [Article](https://medium.com/@jimmymfoniso2001/sql-challenge-2-pizza-runner-data-wrangling-and-cleaning-11db12d2f65d) - For Data Cleaning
 
 [Article](https://medium.com/@jimmymfoniso2001/sql-challenge-2-pizza-runner-exploratory-data-analysis-cdd62e01d3a4) - For Exploratory Data Analysis
